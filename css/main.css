@@ -1,0 +1,102 @@
+/* CSS Document */
+
+body {
+    background-color: skyblue;   
+    color: black;
+}
+
+img {
+    width: 100%; 
+}
+
+h1 {
+    height: 75px;
+    color: #fff;
+    font-size: 5rem;
+    line-height: 15rem;
+    background-color: #9A201F;
+}
+
+.header {
+    margin-top: 15px;
+}
+
+h3 {
+    color: #fff;
+    padding: 1rem;  
+    text-align:center;
+    background-color: #041B6B; 
+}
+
+th {
+    text-decoration: underline;
+}
+
+table {
+    background-color: skyblue;
+}
+
+.about, .divisions, .rules {
+    color: #fff;
+}
+
+.top-teams {
+    color: #fff;
+}
+.five-leaders {
+    text-align: left;
+    line-height: 30px;
+}
+h4 {
+    font-size:1.24rem   
+}
+
+p {
+    width: 100%; 
+    text-align: left;
+    float: right;
+}
+
+.footer-p {
+  text-align: center;
+  font-size: 14pt;
+}
+
+.header-nonbs {
+   margin-top: 42px;
+    color: #fff;
+}
+
+.page-nonbs {
+ padding: 15px;   
+    
+}
+
+.games-nonbs {   
+    height:200px;
+    overflow-y:scroll !important;
+    border: ridge 3px gray;
+    background-color: skyblue;
+}
+
+.content {
+    background-color: #fff;
+}
+
+.img-nonbs{
+    padding-bottom:10px;
+    padding-top:10px;
+}
+
+.arenas {
+    padding-top: 15px;   
+}
+
+.footer-nonbs {
+    height: 25px;
+    background-color: #041B6B;   
+    color:#fff;
+    text-align: center;
+}
+
+
